@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Encabezado {
+    text-align: left;
+    background-color: rgb(37, 32, 99);
+    width: 120cm;
+    height: 3cm;
+    padding: 0;
+    color: aliceblue;
+}
+
+#BarraNav {
+    position: relative; 
+    text-align: right;
+    width: 80%;
+    top: -130px ; 
+    left: 140px ;
+    
+}
+
+#Logo2 {
+
+    position: relative;
+    top: 50;
+    right: 150px;
+    width: 5px;
+    height: 5px;
+}
+
+body {
+    background-color: rgb(186, 217, 237);
+    margin: 0;
+    padding: 0;
+}
+
+#PiePag {
+    position: relative;
+    top: 9cm;
+    background-color: rgb(37, 32, 99);
+    width: 100%;
+    height: 10cm;
+    margin: 0;
+    padding: 0;
+}
+
+
+#Profecionales {
+
+    position: relative;  
+    left: 13cm;  
+    top: -51px;
+
+}
+
+#Infoutil {
+
+    position: relative;
+    left: 20cm;
+    top: -88px;
+
+} 
+
+#Turneros {
+
+    position: relative;
+    left: 17cm;
+    top: -70px;
+}
+
+.TextoBlanco{
+    text-align: left;
+    color: aliceblue;
+}
+
+#Logo3 {
+
+    position: relative;
+    right: 4cm;
+    top: -130px;
+    width: 2cm;
+    height: 2cm;
+
+}
