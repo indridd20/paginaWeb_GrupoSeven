@@ -12,7 +12,7 @@
     height: 3cm;
     padding: 0;
 }
-#BarraNav {
+.BarraNav {
     position: relative; 
     text-align: right;
     width: 80%;
@@ -21,10 +21,8 @@
     
 }
 
-#botones{
-    position: relative;
-    top: -70;   
-    left: 15cm;
+.botones{
+    margin-left: 200px;
 }
 
 body {
@@ -33,7 +31,7 @@ body {
     padding: 0;
 }
 
-#PiePag {
+.footer{
     position: relative;
     top: 9cm;
     background-color: rgb(37, 32, 99);
@@ -67,20 +65,11 @@ body {
     top: -70px;
 }
 
-.TextoBlanco{
+.txt{
     text-align: left;
     color: aliceblue;
 }
 
-#Logo3 {
-
-    position: relative;
-    right: 4cm;
-    top: -130px;
-    width: 2cm;
-    height: 2cm;
-
-}
 form {
     max-width: 400px;
     margin: 0 auto;
