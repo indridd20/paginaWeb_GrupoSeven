@@ -1,3 +1,6 @@
+:root{--page_width : 100%}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +14,7 @@
 }
 .Heder {
     background-color: rgb(37, 32, 99);
-    width: 120cm;
+    width: page_width;
     height: 3cm;
     padding: 0;
 }
@@ -39,7 +42,7 @@ body {
     top: 9cm;
     background-color: rgb(37, 32, 99);
     width: 100%;
-    height: 10cm;
+    height: 6cm;
     margin: 0;
     padding: 0;
 }
