@@ -1,3 +1,7 @@
+:root{
+    --page_width : 100%;
+
+}
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +15,7 @@
 }
 .Heder {
     background-color: rgb(37, 32, 99);
-    width: 120cm;
+    width: page_width;
     height: 3cm;
     padding: 0;
 }
