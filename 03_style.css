@@ -1,16 +1,9 @@
-:root{--page_width : 100%}
-
-
 *{
     margin: 0;
     padding: 0;
 }
-<<<<<<< Updated upstream
 
 .TextoFooter {
-=======
-header {
->>>>>>> Stashed changes
     text-align: left;
     color: aliceblue;
     font-size: medium;
@@ -18,37 +11,11 @@ header {
 }
 .Heder {
     background-color: rgb(37, 32, 99);
-    width: page_width;
+    width: 120cm;
     height: 3cm;
     padding: 0;
 }
-<<<<<<< Updated upstream
 .BarraNav {
-=======
-
-
-
-nav.button {
-    margin-top: 10px;
-}
-
-nav.button button {
-    background-color: rgb(203, 210, 219);
-    color: white;
-    padding: 10px 20px;
-    margin: 0 10px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    text-decoration: none;
-    text-align: left;
- 
-}
-
-
-
-#BarraNav {
->>>>>>> Stashed changes
     position: relative; 
     text-align: right;
     width: 80%;
@@ -58,11 +25,8 @@ nav.button button {
 }
 
 
-nav.button {
+.button {
     margin-top: 10px;
-}
-
-nav.button button {
     background-color: rgb(203, 210, 219);
     color: white;
     padding: 10px 20px;
@@ -78,15 +42,14 @@ body {
     background-color: rgb(186, 217, 237);
     margin: 0;
     padding: 0;
-    width: page_width;
 }
 
 .footer{
     position: relative;
     top: 9cm;
     background-color: rgb(37, 32, 99);
-    width: page_width;
-    height: 6cm;
+    width: 100%;
+    height: 10cm;
     margin: 0;
     padding: 0;
 }
@@ -131,55 +94,34 @@ form {
     border-radius: 15px !important;
 }
   
-<<<<<<< Updated upstream
   /* Estilo para la lista sin viñetas */
 ul {
-=======
-  
-  ul {
->>>>>>> Stashed changes
     list-style: none;
     padding: 0;
     border-radius: 15px !important;
 }
   
-<<<<<<< Updated upstream
   /* Estilo para cada elemento de la lista */
 li {
-=======
-  
-  li {
->>>>>>> Stashed changes
     margin-bottom: 10px;
     border-radius: 15px !important;
     
 }
   
-<<<<<<< Updated upstream
   /* Estilo para las etiquetas */
 label {
-=======
-  
-  label {
->>>>>>> Stashed changes
     display: block;
     margin-bottom: 5px;
     border-radius: 15px !important;
 }
   
-<<<<<<< Updated upstream
   /* Estilo para los campos de entrada */
 input {
-=======
-  
-  input {
->>>>>>> Stashed changes
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
     margin-bottom: 10px;
     border-radius: 15px !important;
-<<<<<<< Updated upstream
 }
 
 .table{
@@ -197,14 +139,14 @@ input {
 }
 
 .th {
-    background-color: #6aade4;
+    background-color: #008cff;
     border: 1px solid black;
     padding: 1px;
     text-align: left;
 }
 
 .tr{
-    background-color: #6aade4;
+    background-color: #008cff;
     border: 1px solid black;
     padding: 1px;
     text-align: left;
@@ -212,10 +154,3 @@ input {
 h1, h2, p{
     font-family: Arial, Helvetica, sans-serif;
 }
-=======
-  }
-
-
-
-
->>>>>>> Stashed changes
