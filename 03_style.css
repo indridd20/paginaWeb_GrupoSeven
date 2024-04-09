@@ -1,3 +1,6 @@
+:root{--page_width : 100%}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +14,7 @@
 }
 .Heder {
     background-color: rgb(37, 32, 99);
-    width: 120cm;
+    width: page_width;
     height: 3cm;
     padding: 0;
 }
@@ -45,14 +48,15 @@ body {
     background-color: rgb(186, 217, 237);
     margin: 0;
     padding: 0;
+    width: page_width;
 }
 
 .footer{
     position: relative;
     top: 9cm;
     background-color: rgb(37, 32, 99);
-    width: 100%;
-    height: 10cm;
+    width: page_width;
+    height: 6cm;
     margin: 0;
     padding: 0;
 }
@@ -142,14 +146,14 @@ input {
 }
 
 .th {
-    background-color: #008cff;
+    background-color: #6aade4;
     border: 1px solid black;
     padding: 1px;
     text-align: left;
 }
 
 .tr{
-    background-color: #008cff;
+    background-color: #6aade4;
     border: 1px solid black;
     padding: 1px;
     text-align: left;
