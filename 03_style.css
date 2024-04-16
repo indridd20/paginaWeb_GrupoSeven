@@ -34,19 +34,6 @@ a {
     
 }
 
-
-.button {
-    margin-top: 10px;
-    color: white;
-    padding: 10px 20px;
-    margin: 0 10px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    text-decoration: none;
- 
-}
-
 body {
     background-color: rgb(186, 217, 237);
     margin: 0;
