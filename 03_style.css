@@ -139,7 +139,7 @@ h1, h2, p{
 }
 
 .footer-distributed{ 
-	background: rgb(0, 0, 0);
+	background-color: rgb(37, 32, 99);
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
@@ -242,14 +242,13 @@ h1, h2, p{
 
 .footer-distributed .footer-icons a{
 	display: inline-block;
-	width: 35px;
-	height: 35px;
+	width: 45px;
+	height: 45px;
 	cursor: pointer;
-	background-color:  #000000;
+	background-color: rgb(37, 32, 99);;
 	border-radius: 2px;
 
 	font-size: 20px;
-	color: #ffffff;
 	text-align: center;
 	line-height: 35px;
 
