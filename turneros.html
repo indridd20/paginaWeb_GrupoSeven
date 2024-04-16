@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Infoutil</title>
+    <title>Turneros</title>
     <link rel="stylesheet" href="03_style.css">
 </head>
 <body>
@@ -14,34 +14,61 @@
             <img src="img2\logoH.png" alt="logoHospital" height="40" width="100">
         </div>
 
-        <p>Hospital La Falda</p>
+        <p id="Texto1" >Hospital La Falda</p>
 
         <div class="button">
             <button><a href="index.html">Home</a></button>
             <button class="botones"><a href="infoUtil.html">Informacion</a></button>
-            <button class="botones"><a href="profecionales.html">Profesionales</a></button>
+            <button class="botones"><a href="profecionales.html">Profecionales</a></button>
             <button class="botones"><a href="turneros.html">Turnos</a></button>    
         </div>
             
     </header>
-    <main>
+    <br>
+    <br>
 
-        <br> 
-        <div class="horarios">
-          <p>Mesa de entrada: Lunes a viernes de 7.00 21.00hs</p>
-          <p>Lunes a viernes de 7.00 a 14.00 hs</p>
-          <p> Guardia Médica: 24 hs</p>
-          <p>Guardia Pediátrica: 24 hs</p>
-          <p>Guardia Toco-ginecológica: 24 hs</p>
-          <p>Guardia Anestesista: 24 hs</p>
-          <p>Guardia Bioquímica 24 hs</p>
-          <p>Guardia Radiología : 24 hs</p>
-          <p>Servicio Enfermería: 24 hs</p>
-        </div>
-        <br><br>
-        <h1>Ubicación:</h1>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13665.348594906887!2d-64.4847521!3d-31.1003601!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x942d836fd2b1a1b1%3A0xc18550523421a809!2sHospital%20Municipal%20La%20Falda!5e0!3m2!1ses!2sar!4v1702053935110!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <main>
+        <form action="/submit_form" method="post">
+
+            <ul>
+                <li>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre">
+                </li>
+
+                <li>
+                    <label for="apellido">Apellido:</label>
+                    <input type="text" id="apellido" name="apellido">
+                </li>
+
+                <li>
+                    <label for="dni">D.N.I:</label>
+                    <input type="number" id="dni" name="dni">
+                </li>
+
+                <li>
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email">
+                </li>
+
+                <li>
+                    <label for="especialidad">Especialidad:</label>
+                    <input type="text" id="especialidad" name="especialidad">
+                </li>
+
+                <li>
+                    <label for="motivo">Motivo:</label>
+                    <input type="text" id="motivo" name="motivo">
+                </li>
+
+                <li>
+                <input type="submit" value="Enviar">
+                </li>
+            </ul>
+
+        </form>
     </main>
+
     <footer class="footer-distributed">
   
         <div class="footer-left">
