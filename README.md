@@ -1,5 +1,5 @@
 # Proyecto sociocomunitario
-Esta pagina se trata sobre un proyecto de 5º año ProA La Falda, Es un proyecto sociocomunitario que consiste en brindarle una pagina web al Hospital Mnicipal de La Falda.
+Esta pagina se trata sobre un proyecto de 5º año ProA La Falda, Es un proyecto sociocomunitario que consiste en brindarle una pagina web al Hospital Municipal de La Falda.
 
 # Docs
 https://docs.google.com/document/d/1ZfFd5KqfFnPfNH_hCT6ZjRF7EsToBrgNbt8V-R3hukk/edit?usp=sharing
