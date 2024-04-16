@@ -242,8 +242,8 @@ h1, h2, p{
 
 .footer-distributed .footer-icons a{
 	display: inline-block;
-	width: 45px;
-	height: 45px;
+	width: 35px;
+	height: 35px;
 	cursor: pointer;
 	background-color: rgb(37, 32, 99);;
 	border-radius: 2px;
