@@ -13,13 +13,6 @@ a {
     color: black;
 }
 
-
-.Heder {
-    background-color: rgb(37, 32, 99);
-    width: page_width;
-    height: 3cm;
-    padding: 0;
-}
 .BarraNav {
     position: relative; 
     text-align: right;
@@ -30,11 +23,15 @@ a {
 }
 
 body {
-    background-color: rgb(186, 217, 237);
+    background-color:#0f165b;
     margin: 0;
     padding: 0;
 }
 
+.Gris {
+	background-color:#b4b6c8;
+
+}
 
 imgg {
 alt: calc(10);
