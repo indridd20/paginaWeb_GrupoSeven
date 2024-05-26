@@ -280,9 +280,10 @@ h1, h2, p{
 #textSN1 {
 
 	position: relative;
-	margin-top: 20px;
+	margin-top: 50px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	text-align: left;
+	padding-left: 2%;
 
 }
 #HospitalImg {
