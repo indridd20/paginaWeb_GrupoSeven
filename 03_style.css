@@ -147,7 +147,7 @@ h1, h2, p{
 	font: bold 16px sans-serif;
 	padding: 55px 50px;
     font-family: Open Sans;
-    margin-top: 20%;	
+    margin-top: 6%;	
 }
 
 .footer-distributed .footer-left,
@@ -277,7 +277,7 @@ h1, h2, p{
 
 }
 
-#text {
+#textSN1 {
 
 	position: relative;
 	margin-top: 20px;
@@ -291,4 +291,10 @@ h1, h2, p{
 	margin-left: 840px;
 	margin-top: -250px;
 
+}
+
+#textSN2 {
+	text-align: center;
+	position: relative;
+	margin-top: 100px;
 }
