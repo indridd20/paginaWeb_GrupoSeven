@@ -277,3 +277,18 @@ h1, h2, p{
 
 }
 
+#text {
+
+	position: relative;
+	margin-top: 20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: left;
+
+}
+#HospitalImg {
+
+	position: relative;
+	margin-left: 840px;
+	margin-top: -250px;
+
+}
