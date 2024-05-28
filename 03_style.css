@@ -122,14 +122,14 @@ input {
 }
 
 .th {
-    background-color: #008cff;
+    background-color: #b4b6c8;;
     border: 1px solid black;
     padding: 1px;
     text-align: left;
 }
 
 .tr{
-    background-color: #008cff;
+    background-color: #b4b6c8;
     border: 1px solid black;
     padding: 1px;
     text-align: left;
@@ -299,4 +299,5 @@ h1, h2, p{
 	position: relative;
 	margin-top: 100px;
 }
+
 
