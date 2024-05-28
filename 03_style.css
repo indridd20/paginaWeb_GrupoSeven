@@ -10,7 +10,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(241, 237, 237)50, 245, 245);
+    color: black;
 }
 
 .BarraNav {
@@ -55,7 +55,7 @@ alt: calc(10);
 
     position: relative;
     left: 20cm;
-    top: -44px;
+    top: -88px;
 
 } 
 
@@ -86,7 +86,6 @@ ul {
   
   /* Estilo para cada elemento de la lista */
 li {
-	color: #ffffff;
     margin-bottom: 10px;
     border-radius: 15px !important;
     
@@ -301,6 +300,3 @@ h1, h2, p{
 	margin-top: 100px;
 }
 
-.nav-item{
-	color: #ffffff;
-}
