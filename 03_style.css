@@ -110,7 +110,7 @@ input {
 .table{
     border: 2px solid #b4b6c8;
     border-collapse: collapse;
-    margin-left: auto;
+    margin-left: 20%;
     margin-right: auto;
 
 }
