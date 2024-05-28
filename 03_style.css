@@ -110,8 +110,8 @@ input {
 .table{
     border: 2px solid #b4b6c8;
     border-collapse: collapse;
-    margin-left: 20%;
-    margin-right: auto;
+    margin-left: auto;
+    margin-right: 17%;
 
 }
 
@@ -300,4 +300,11 @@ h1, h2, p{
 	margin-top: 100px;
 }
 
+#Imagen2SNLogoProA {
+
+	position: relative;
+	margin-left: 140px;
+	margin-top: -350px;
+
+}
 
