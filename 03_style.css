@@ -107,13 +107,14 @@ input {
     border-radius: 15px !important;
 }
 
-.table{
+table {
     border: 2px solid #b4b6c8;
     border-collapse: collapse;
     margin-left: auto;
     margin-right: 20%;
-
+    width: 60%; /* Ancho reducido al 60% del contenedor */
 }
+
 
 .td {
     border: 1px solid #b4b6c8;
@@ -300,4 +301,11 @@ h1, h2, p{
 	margin-top: 100px;
 }
 
+#Imagen2SNLogoProA {
+
+	position: relative;
+	margin-left: 140px;
+	margin-top: -350px;
+
+}
 
